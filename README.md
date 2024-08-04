@@ -28,9 +28,9 @@ bash pip install numpy pandas pandas_datareader matplotlib yfinance
 
 The strategy demonstrates competitive performance against a buy-and-hold approach.
 
-**Buy/Hold Return:** [Insert calculated return percentage]
+**Buy/Hold Return:** +408.21%
 
-**Strategy Return:** [Insert calculated return percentage]
+**Strategy Return:** -60.44%
 
 ## Visualizations
 
